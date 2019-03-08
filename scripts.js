@@ -1,0 +1,1 @@
+const sides = ["fron", "back", "top", "bottom", "left", "right"];
